@@ -4,7 +4,7 @@ An interactive algorithm visualization engine built with React, TypeScript, and 
 
 ## 🔗 Live Demo
 
-> **Live demo URL here:** (https://algovis.vercel.app)
+> **Live demo URL here:** (https://algorithm-simulation-visualizer.vercel.app)
 
 ---
 
